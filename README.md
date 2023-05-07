@@ -1,4 +1,3 @@
-
 <h1>Hi, I'm Rabin, an <a href="www.linkedin.com/in/rabin-thapa-238a8125b">IT Professional</a>☺</h1>
 
 <h2>👨‍💻 Information Technology Projects:</h2>
