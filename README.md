@@ -18,7 +18,7 @@
 
 [twitter]: https://twitter.com/Rabin
 [instagram]: https://www.instagram.com/Rabin
-[linkedin]: https://linkedin.com/in/Rabin
+[linkedin]: https://linkedin.com/in/rabin-thapa-238a8125b
 
 <!--
 **rbnthp/rbnthp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
