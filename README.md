@@ -1,4 +1,4 @@
-### Hi there, my name is Rabin Thapa
+### Hi there, my name is Rabin
 
 <!--
 **rbnthp/rbnthp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
